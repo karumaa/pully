@@ -6,6 +6,7 @@ let ls = function (dirpath) {
     for (let item of contents) {
         console.log(item);
     }
+    console.log('test')
 }
 
 
